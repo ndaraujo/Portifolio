@@ -1,4 +1,4 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -18,6 +18,5 @@
 
 ### Linkedin: https://www.linkedin.com/in/araujo-dev
 
-```
 
 Veja que legal como fica a página inicial do repositório:
